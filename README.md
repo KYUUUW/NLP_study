@@ -7,3 +7,9 @@
 ## Study With
 
 세종대학교 인공지능 동아리 SAI NLP Team
+
+## 필요 모듈
+
+* nltk
+* tensorflow
+* kss
